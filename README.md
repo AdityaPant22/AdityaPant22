@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AdityaPant22
-- 👀 I’m interested in startups, automation and robotics!
-- 🌱 I’m currently learning C
-- 📫 How to reach me: My insta handle is @aditya.pant22
+💡 Passionate product management with experience in MVP development, user experience optimization, and scaling businesses.
+🎓 Final-year Mechanical Engineering student at BITS Pilani, Goa.
+🚀 Directed BITS Goa Consulting Club, launching India-wide PM initiatives and helping final year students land their dream jobs
+🔧 Skilled in SQL, market research, and leading cross-functional teams.
 
 <!---
 AdityaPant22/AdityaPant22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
