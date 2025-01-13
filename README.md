@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aditya Pant  
 
 💡 **Passionate about Product Management** with experience in:  
-- MVP development, user experience optimization, and scaling businesses.  
+- Product development, user experience optimization, and scaling businesses.  
 
 🎓 **Final-year Mechanical Engineering student** at BITS Pilani, Goa.  
 
